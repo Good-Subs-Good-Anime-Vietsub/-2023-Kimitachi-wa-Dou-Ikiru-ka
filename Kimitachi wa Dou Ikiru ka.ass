@@ -12,11 +12,13 @@ PlayResY: 2080
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.375000
-Video Position: 981
+Scroll Position: 121
+Active Line: 141
+Video Position: 29740
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,KiOZ Gandhi Sans Dialogue,136,&H00FFFFFF,&H000000FF,&H004D240A,&HB24B2108,-1,0,0,0,100,100,0,0,1,8,6,2,24,24,136,1
+Style: Main,KiOZ Gandhi Sans Dialogue,148,&H00FFFFFF,&H000000FF,&H004D240A,&HB24B2108,0,0,0,0,100,100,0,0,1,8.6,4.8,2,24,24,136,1
 Style: OST,Signika SemiBold,88,&H00D4FDF5,&H000000FF,&H0050290D,&H882A1505,0,0,0,0,100,100,0,0,1,4.2,0,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,-1,0,0,0,100,100,0,0,3,0,0.0740741,8,10,10,50,1
@@ -25,129 +27,150 @@ Style: Main - VN,Segoe UI,50,&H00FFFFFF,&H000000FF,&H00070741,&HA9070741,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:40.88,0:00:42.96,Main,,0,0,0,,- Mister Shoichi?\N- His room.
-Dialogue: 0,0:01:03.27,0:01:05.27,Main,,0,0,0,,Your mother's hospital's on fire!
-Dialogue: 0,0:01:13.74,0:01:14.74,Main,,0,0,0,,Mother!
-Dialogue: 0,0:01:19.16,0:01:20.21,Main,,0,0,0,,I'll go too!
-Dialogue: 0,0:01:20.33,0:01:22.04,Main,,0,0,0,,Stay here, Mahito!
-Dialogue: 0,0:01:58.66,0:01:59.79,Main,,0,0,0,,<i>Mother...</i>
-Dialogue: 0,0:02:19.68,0:02:22.27,Main,,0,0,0,,<i>Three years into the war,\NMother died.</i>
-Dialogue: 0,0:02:23.19,0:02:26.77,Main,,0,0,0,,<i>Four years in,\NI left Tokyo with Father.</i>
-Dialogue: 0,0:02:41.04,0:02:46.08,Main,,0,0,0,,<i>"Saginuma Station"</i>
-Dialogue: 0,0:03:16.74,0:03:17.70,Main,,0,0,0,,That's her.
-Dialogue: 0,0:03:29.59,0:03:32.13,Main,,0,0,0,,<i>She looked exactly like Mother.</i>
-Dialogue: 0,0:03:33.38,0:03:34.67,Main,,0,0,0,,Did you wait long?
-Dialogue: 0,0:03:35.09,0:03:36.59,Main,,0,0,0,,We just arrived.
-Dialogue: 0,0:03:37.09,0:03:40.10,Main,,0,0,0,,You're Mahito?\NI'm Natsuko.
-Dialogue: 0,0:03:40.80,0:03:44.48,Main,,0,0,0,,Sorry I'm late.\NWe had a flat tire on the way.
-Dialogue: 0,0:03:48.15,0:03:49.90,Main,,0,0,0,,You've grown up.
-Dialogue: 0,0:03:50.02,0:03:53.73,Main,,0,0,0,,I've met you once,\Nwhen you were a baby.
-Dialogue: 0,0:03:54.23,0:03:55.65,Main,,0,0,0,,The factory first?
-Dialogue: 0,0:03:55.86,0:03:57.99,Main,,0,0,0,,Yes. I'll be back for dinner.
-Dialogue: 0,0:04:04.12,0:04:05.33,Main,,0,0,0,,Perfect timing.
-Dialogue: 0,0:04:05.45,0:04:06.62,Main,,0,0,0,,Come, let's go.
-Dialogue: 0,0:04:07.00,0:04:08.12,Main,,0,0,0,,That's heavy.
-Dialogue: 0,0:04:11.59,0:04:12.75,Main,,0,0,0,,After you.
-Dialogue: 0,0:04:24.97,0:04:26.06,Main,,0,0,0,,To the residence.
-Dialogue: 0,0:04:35.61,0:04:40.49,Main,,0,0,0,,Mahito, I'm going to be your\Nnew mother. Did you know?
-Dialogue: 0,0:04:42.70,0:04:43.87,Main,,0,0,0,,Your hand.
-Dialogue: 0,0:04:47.66,0:04:48.96,Main,,0,0,0,,Go on, put it here.
-Dialogue: 0,0:04:50.92,0:04:52.25,Main,,0,0,0,,Feel it moving?
-Dialogue: 0,0:04:55.21,0:04:58.63,Main,,0,0,0,,A baby. Your little\Nbrother or sister.
-Dialogue: 0,0:04:58.80,0:05:00.55,Main,,0,0,0,,I'm so delighted.
-Dialogue: 0,0:05:00.76,0:05:02.89,Main,,0,0,0,,Oh, stop here.
-Dialogue: 0,0:05:03.01,0:05:06.22,Main,,0,0,0,,<i>"May your luck last long in battle"\N"Congratulations on your call-up"</i>
-Dialogue: 0,0:05:57.02,0:05:58.98,Main,,0,0,0,,Alright, we're here.
-Dialogue: 0,0:06:00.86,0:06:02.78,Main,,0,0,0,,Take the luggage in.
-Dialogue: 0,0:06:11.58,0:06:13.04,Main,,0,0,0,,Mahito, let's go.
-Dialogue: 0,0:06:19.30,0:06:23.34,Main,,0,0,0,,It's your first time,\Nso we'll enter from the front.
-Dialogue: 0,0:06:28.93,0:06:32.10,Main,,0,0,0,,Look, over there.\NThat building.
-Dialogue: 0,0:06:32.89,0:06:35.31,Main,,0,0,0,,Your father's new factory.
-Dialogue: 0,0:06:36.27,0:06:38.02,Main,,0,0,0,,Let's visit it sometime.
-Dialogue: 0,0:06:57.00,0:06:59.59,Main,,0,0,0,,Oh dear, no one's in.
-Dialogue: 0,0:07:03.67,0:07:05.43,Main,,0,0,0,,Bring your shoes with you.
-Dialogue: 0,0:07:33.33,0:07:37.08,Main,,0,0,0,,How rare. It's never\Nflown inside before.
-Dialogue: 0,0:07:51.39,0:07:56.23,Main,,0,0,0,,That nosy gray heron.\NIt must be welcoming you.
-Dialogue: 0,0:08:28.01,0:08:29.22,Main,,0,0,0,,Well well.
-Dialogue: 0,0:08:30.14,0:08:32.76,Main,,0,0,0,,Opened Shoichi's trunk again?
-Dialogue: 0,0:08:32.89,0:08:34.72,Main,,0,0,0,,Well, m'lady...
-Dialogue: 0,0:08:34.85,0:08:37.48,Main,,0,0,0,,The pedicab man came,\Nya see!
-Dialogue: 0,0:08:37.60,0:08:39.52,Main,,0,0,0,,He left it here.
-Dialogue: 0,0:08:39.65,0:08:40.48,Main,,0,0,0,,Yup, yup.
-Dialogue: 0,0:08:40.60,0:08:42.27,Main,,0,0,0,,Didn't know whose it was.
-Dialogue: 0,0:08:42.40,0:08:43.52,Main,,0,0,0,,Yup, yup.
-Dialogue: 0,0:08:43.90,0:08:45.57,Main,,0,0,0,,It smells so sweet...
-Dialogue: 0,0:08:45.69,0:08:47.44,Main,,0,0,0,,So we just...
-Dialogue: 0,0:08:48.61,0:08:52.03,Main,,0,0,0,,This is Shoichi's son, Mahito.
-Dialogue: 0,0:09:35.95,0:09:37.91,Main,,0,0,0,,- What?!\N- Canned beef!
-Dialogue: 0,0:09:38.25,0:09:40.33,Main,,0,0,0,,Tasty when cooked with rice!
-Dialogue: 0,0:09:40.46,0:09:43.17,Main,,0,0,0,,Canned salmon!\NGimme the bones!
-Dialogue: 0,0:09:43.63,0:09:46.42,Main,,0,0,0,,Corned beef!\NYou can still get it?
-Dialogue: 0,0:09:46.80,0:09:48.38,Main,,0,0,0,,And lastly...
-Dialogue: 0,0:09:48.51,0:09:50.51,Main,,0,0,0,,- Sugar!\N- Good for rice cakes!
-Dialogue: 0,0:09:50.63,0:09:51.76,Main,,0,0,0,,Sweet bean paste!
-Dialogue: 0,0:09:51.88,0:09:55.26,Main,,0,0,0,,- Sweet rice cakes!\N- Pure white sugar!
-Dialogue: 0,0:09:55.39,0:09:56.81,Main,,0,0,0,,Gimme a taste!
-Dialogue: 0,0:09:56.97,0:09:58.10,Main,,0,0,0,,Me too!
-Dialogue: 0,0:09:59.43,0:10:00.52,Main,,0,0,0,,We can go now.
-Dialogue: 0,0:10:00.68,0:10:03.35,Main,,0,0,0,,So some places still have it!
-Dialogue: 0,0:10:06.61,0:10:09.15,Main,,0,0,0,,He's his mother's spitting image.
-Dialogue: 0,0:10:09.36,0:10:10.65,Main,,0,0,0,,Such a pretty boy.
-Dialogue: 0,0:10:10.82,0:10:12.99,Main,,0,0,0,,I hope he stays safe...
-Dialogue: 0,0:10:13.11,0:10:14.45,Main,,0,0,0,,You got smokes?!
-Dialogue: 0,0:10:14.57,0:10:16.12,Main,,0,0,0,,Gimme one!
-Dialogue: 0,0:10:32.42,0:10:34.26,Main,,0,0,0,,This is your room.
-Dialogue: 0,0:10:36.72,0:10:39.85,Main,,0,0,0,,You must be tired.\NI'll bring tea.
-Dialogue: 0,0:12:34.13,0:12:35.26,Main,,0,0,0,,Mom!
-Dialogue: 0,0:12:36.76,0:12:39.43,Main,,0,0,0,,Mahito...\NGoodbye...
-Dialogue: 0,0:12:40.47,0:12:43.26,Main,,0,0,0,,Mom! I'm coming!
+Dialogue: 0,0:00:40.88,0:00:41.82,Main,,0,0,0,,Ông chủ đâu?
+Dialogue: 0,0:00:41.82,0:00:42.99,Main,,0,0,0,,Ở trong phòng.
+Dialogue: 0,0:01:03.27,0:01:05.27,Main,,0,0,0,,Bệnh viện chỗ mẹ con bị cháy rồi.
+Dialogue: 0,0:01:13.74,0:01:14.74,Main,,0,0,0,,Mẹ!
+Dialogue: 0,0:01:19.16,0:01:20.21,Main,,0,0,0,,Con cũng đi.
+Dialogue: 0,0:01:20.33,0:01:22.04,Main,,0,0,0,,Mahito ở lại đây!
+Dialogue: 0,0:01:58.66,0:01:59.79,Main,,0,0,0,,{\i1}Mẹ ơi...
+Dialogue: 0,0:02:19.68,0:02:22.27,Main,,0,0,0,,{\i1}Chiến tranh nổ ra được ba năm, \Nmẹ tôi qua đời.
+Dialogue: 0,0:02:23.19,0:02:26.77,Main,,0,0,0,,{\i1}Vào năm thứ tư, bố con tôi rời Tōkyō.
+Dialogue: 0,0:02:30.34,0:02:39.06,Main,sign,0,0,0,,Thiếu niên và chim diệc
+Dialogue: 0,0:02:40.97,0:02:46.10,Main,sign,0,0,0,,"Saginuma Station"
+Dialogue: 0,0:03:16.74,0:03:17.70,Main,,0,0,0,,Đến rồi đấy.
+Dialogue: 0,0:03:29.59,0:03:32.13,Main,,0,0,0,,{\i1}Cô ấy trông giống hệt mẹ tôi.
+Dialogue: 0,0:03:33.38,0:03:34.67,Main,,0,0,0,,Để anh đợi rồi!
+Dialogue: 0,0:03:35.09,0:03:36.59,Main,,0,0,0,,Cũng mới tới thôi.
+Dialogue: 0,0:03:37.09,0:03:38.34,Main,,0,0,0,,Mahito-san nhỉ?
+Dialogue: 0,0:03:38.98,0:03:40.10,Main,,0,0,0,,Dì là Natsuko.
+Dialogue: 0,0:03:40.80,0:03:42.16,Main,,0,0,0,,Dì tới trễ, xin lỗi nha.
+Dialogue: 0,0:03:42.50,0:03:44.45,Main,,0,0,0,,Xe bị thủng lốp giữa đường.
+Dialogue: 0,0:03:48.15,0:03:49.92,Main,,0,0,0,,Lớn nhanh quá.
+Dialogue: 0,0:03:49.92,0:03:53.73,Main,,0,0,0,,Dì có từng gặp con\N hồi con còn bé xíu ấy.
+Dialogue: 0,0:03:54.23,0:03:55.65,Main,,0,0,0,,Anh qua xưởng luôn à?
+Dialogue: 0,0:03:55.86,0:03:57.99,Main,,0,0,0,,Ừm, sẽ về trước giờ cơm.
+Dialogue: 0,0:04:04.12,0:04:05.45,Main,,0,0,0,,Ái chà đúng lúc quá.
+Dialogue: 0,0:04:05.45,0:04:06.62,Main,,0,0,0,,Nào, đi thôi.
+Dialogue: 0,0:04:07.00,0:04:08.12,Main,,0,0,0,,Nặng đấy.
+Dialogue: 0,0:04:11.59,0:04:12.75,Main,,0,0,0,,Con lên trước đi.
+Dialogue: 0,0:04:24.97,0:04:26.06,Main,,0,0,0,,Đến biệt thự.
+Dialogue: 0,0:04:26.06,0:04:27.20,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:04:35.61,0:04:39.22,Main,,0,0,0,,Dì sẽ là mẹ mới của Mahito-san đó.
+Dialogue: 0,0:04:39.41,0:04:40.32,Main,,0,0,0,,Con biết rồi nhỉ?
+Dialogue: 0,0:04:42.70,0:04:43.87,Main,,0,0,0,,Đưa tay đây dì.
+Dialogue: 0,0:04:47.66,0:04:48.96,Main,,0,0,0,,Đây, ở đây.
+Dialogue: 0,0:04:50.92,0:04:52.25,Main,,0,0,0,,Con thấy chuyển động không?
+Dialogue: 0,0:04:55.21,0:04:56.30,Main,,0,0,0,,Em bé đó.
+Dialogue: 0,0:04:56.30,0:04:58.58,Main,,0,0,0,,Là em gái hoặc em trai của con.
+Dialogue: 0,0:04:58.80,0:05:00.55,Main,,0,0,0,,Dì hạnh phúc lắm.
+Dialogue: 0,0:05:02.00,0:05:02.99,Main,,0,0,0,,Dừng lại đi.
+Dialogue: 0,0:05:02.99,0:05:06.24,Main,sign,0,0,0,,
+Dialogue: 0,0:05:21.13,0:05:24.97,Main,sign,0,0,0,,
+Dialogue: 0,0:05:57.02,0:05:58.98,Main,,0,0,0,,Nào, tới rồi đó.
+Dialogue: 0,0:06:00.86,0:06:02.67,Main,,0,0,0,脇へ回して,Phiền bác chuyển hành lý qua bên kia.
+Dialogue: 0,0:06:02.67,0:06:03.26,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:06:11.58,0:06:13.04,Main,,0,0,0,,Mahito-san, đi thôi.
+Dialogue: 0,0:06:19.30,0:06:23.34,Main,,0,0,0,,Vì đây là lần đầu Mahito-san đến,\N nên sẽ đi vào từ cửa chính.
+Dialogue: 0,0:06:28.93,0:06:30.83,Main,,0,0,0,,Kìa! Con nhìn xem.
+Dialogue: 0,0:06:30.83,0:06:32.33,Main,,0,0,0,,Tòa nhà đằng kia.
+Dialogue: 0,0:06:32.85,0:06:35.31,Main,,0,0,0,,Xưởng mới của bố con đấy.
+Dialogue: 0,0:06:36.27,0:06:38.02,Main,,0,0,0,,Lúc nào qua đó xem nhé.
+Dialogue: 0,0:06:57.00,0:06:59.59,Main,,0,0,0,,Ui trời, sao không có ai thế này.
+Dialogue: 0,0:07:03.67,0:07:05.43,Main,,0,0,0,,Cầm theo giày nhé.
+Dialogue: 0,0:07:33.33,0:07:34.75,Main,,0,0,0,,Lạ thật đấy.
+Dialogue: 0,0:07:35.02,0:07:37.10,Main,,0,0,0,,Có bao giờ thấy nó \Nbay vào mái hiên đâu.
+Dialogue: 0,0:07:51.39,0:07:53.18,Main,,0,0,0,,Con diệc xanh rình mò này.
+Dialogue: 0,0:07:53.82,0:07:56.21,Main,,0,0,0,,Chắc nó chào đón Mahito-san đó.
+Dialogue: 0,0:08:28.01,0:08:29.22,Main,,0,0,0,,Chà chà.
+Dialogue: 0,0:08:30.14,0:08:32.85,Main,,0,0,0,,Lại mở vali của Shoichi-san ra đấy à?
+Dialogue: 0,0:08:32.85,0:08:34.85,Main,,0,0,0,,Ấy đâu có, tiểu thư.
+Dialogue: 0,0:08:34.85,0:08:36.34,Main,,0,0,0,,Phu xe vừa mang tới...
+Dialogue: 0,0:08:36.34,0:08:37.54,Main,,0,0,0,,Nhỉ?
+Dialogue: 0,0:08:37.54,0:08:40.60,Main,,0,0,0,,Ông ấy để nó ở đây mà.
+Dialogue: 0,0:08:39.62,0:08:40.60,Main,,2700,0,0,,Phải phải.
+Dialogue: 0,0:08:40.60,0:08:43.54,Main,,0,1800,0,,Mà đây là ai nhỉ?
+Dialogue: 0,0:08:42.40,0:08:43.54,Main,,2700,0,0,,Phải phải.
+Dialogue: 0,0:08:43.90,0:08:47.44,Main,,0,0,0,,- Ôi có cái mùi ngòn ngọt~\N- Đúng rồi~
+Dialogue: 0,0:08:48.61,0:08:51.89,Main,,0,0,0,,Đây là con Shoichi-san đấy!\NTên là Mahito.
+Dialogue: 0,0:09:35.95,0:09:38.56,Main,,0,0,0,,- Gì thế?\N- Là thịt bò hộp!
+Dialogue: 0,0:09:38.56,0:09:40.50,Main,,0,0,0,,Cho vào cơm thì ngon lắm đấy.
+Dialogue: 0,0:09:40.50,0:09:43.19,Main,,0,0,0,,Cá hồi đóng hộp này, để phần tôi xương nhé.
+Dialogue: 0,0:09:43.63,0:09:46.42,Main,,0,0,0,,Vẫn còn thịt bò muối này.
+Dialogue: 0,0:09:46.80,0:09:48.51,Main,,0,0,0,,Đây! Món cuối cùng!
+Dialogue: 0,0:09:48.51,0:09:50.63,Main,,0,0,0,,- Là đường.\N- Có thể làm bánh nếp đậu đỏ được rồi.
+Dialogue: 0,0:09:50.63,0:09:53.65,Main,,0,0,0,,- Đậu đỏ ngọt đó~\N- Ôi ngọt, bánh nếp ngọt~
+Dialogue: 0,0:09:53.65,0:09:56.91,Main,,0,0,0,,- Ôi đường trắng tinh~\N- Để tôi nếm thử cái nào!
+Dialogue: 0,0:09:56.91,0:09:58.10,Main,,0,0,0,,Tôi nữa.
+Dialogue: 0,0:09:59.43,0:10:00.68,Main,,0,0,0,,Để con đợi rồi.
+Dialogue: 0,0:10:00.68,0:10:03.35,Main,,0,0,0,,Vẫn có những nơi còn mấy thứ này nhỉ.
+Dialogue: 0,0:10:06.61,0:10:09.15,Main,,0,0,0,,Trông không khác gì mẹ cả.
+Dialogue: 0,0:10:09.36,0:10:10.82,Main,,0,0,0,,Xinh trai thật ha.
+Dialogue: 0,0:10:10.82,0:10:12.94,Main,,0,0,0,,Mong là không bị làm sao.
+Dialogue: 0,0:10:13.11,0:10:14.57,Main,,0,0,0,,Bà kia! Thuốc lá?
+Dialogue: 0,0:10:14.57,0:10:16.12,Main,,0,0,0,,Xin điếu đi?
+Dialogue: 0,0:10:32.42,0:10:34.26,Main,,0,0,0,,Đây là phòng của Mahito-san.
+Dialogue: 0,0:10:36.72,0:10:37.97,Main,,0,0,0,,Chắc con mệt rồi nhỉ?
+Dialogue: 0,0:10:38.43,0:10:39.87,Main,,0,0,0,,Để dì đi pha trà nhé.
+Dialogue: 0,0:12:34.23,0:12:35.40,Main,,0,0,0,,Mẹ ơi!
+Dialogue: 0,0:12:36.76,0:12:37.66,Main,,0,0,0,,Mahito...
+Dialogue: 0,0:12:38.30,0:12:39.74,Main,,0,0,0,,Tạm biệt.
+Dialogue: 0,0:12:40.42,0:12:41.22,Main,,0,0,0,,Mẹ ơi!
+Dialogue: 0,0:12:41.98,0:12:43.62,Main,,0,0,0,,Con tới với mẹ đây!
 Dialogue: 0,0:12:44.47,0:12:45.60,Main,,0,0,0,,Mahito...
-Dialogue: 0,0:12:47.43,0:12:48.60,Main,,0,0,0,,Mahito...
-Dialogue: 0,0:12:51.56,0:12:52.86,Main,,0,0,0,,Mom...
-Dialogue: 0,0:15:03.11,0:15:05.24,Main,,0,0,0,,Mahito!
-Dialogue: 0,0:15:07.53,0:15:10.08,Main,,0,0,0,,Mahito!
-Dialogue: 0,0:15:11.91,0:15:14.33,Main,,0,0,0,,Mahito!
-Dialogue: 0,0:16:24.69,0:16:27.11,Main,,0,0,0,,Sonny!
-Dialogue: 0,0:16:27.28,0:16:29.36,Main,,0,0,0,,Better head back!
-Dialogue: 0,0:16:29.49,0:16:32.12,Main,,0,0,0,,The lady's worried about ya!
-Dialogue: 0,0:16:33.16,0:16:35.87,Main,,0,0,0,,Sonny!
-Dialogue: 0,0:16:40.33,0:16:42.63,Main,,0,0,0,,That used to be sealed off...
-Dialogue: 0,0:16:44.84,0:16:46.46,Main,,0,0,0,,He'll get taken...
-Dialogue: 0,0:16:47.17,0:16:48.59,Main,,0,0,0,,Sonny!
-Dialogue: 0,0:16:48.80,0:16:50.72,Main,,0,0,0,,Thank goodness.
-Dialogue: 0,0:16:50.89,0:16:52.01,Main,,0,0,0,,What is this?
-Dialogue: 0,0:16:53.26,0:16:56.43,Main,,0,0,0,,There's a staircase.\NWhat's this place?
-Dialogue: 0,0:16:57.93,0:16:59.06,Main,,0,0,0,,Well...
-Dialogue: 0,0:16:59.19,0:17:01.56,Main,,0,0,0,,Better head back.
-Dialogue: 0,0:17:04.02,0:17:05.53,Main,,0,0,0,,The feathers are gone...
-Dialogue: 0,0:17:09.99,0:17:14.49,Main,,0,0,0,,I was saving this story\Nfor when you get settled in here.
-Dialogue: 0,0:17:15.74,0:17:20.50,Main,,0,0,0,,That tower was built by\Nmy mother's uncle, I was told.
-Dialogue: 0,0:17:22.25,0:17:24.96,Main,,0,0,0,,He was a very smart man,
-Dialogue: 0,0:17:25.71,0:17:28.88,Main,,0,0,0,,but read too many books,\Nand lost his mind.
-Dialogue: 0,0:17:30.59,0:17:33.72,Main,,0,0,0,,<i>One day, a long time\Nbefore I was born,</i>
-Dialogue: 0,0:17:34.68,0:17:39.39,Main,,0,0,0,,<i>he disappeared, leaving only\Nan open book he hadn't finished.</i>
-Dialogue: 0,0:17:40.31,0:17:44.36,Main,,0,0,0,,<i>They looked everywhere,\Nbut couldn't find any trace.</i>
-Dialogue: 0,0:17:46.94,0:17:50.90,Main,,0,0,0,,<i>Later, in a flood, a passage\Nto the main house collapsed,</i>
-Dialogue: 0,0:17:51.45,0:17:54.95,Main,,0,0,0,,<i>and beneath the tower,\Na maze of tunnels was found.</i>
-Dialogue: 0,0:17:56.49,0:18:01.08,Main,,0,0,0,,For safety, my grandfather\Nhad the entrance sealed.
-Dialogue: 0,0:18:02.04,0:18:05.04,Main,,0,0,0,,You mustn't go near it either.
-Dialogue: 0,0:18:05.67,0:18:08.30,Main,,0,0,0,,Yes ma'am.\NThank you for the tea.
-Dialogue: 0,0:18:10.92,0:18:12.05,Main,,0,0,0,,Good night.
-Dialogue: 0,0:18:12.34,0:18:16.01,Main,,0,0,0,,Good night. Mornings are cold,\Nso sleep warm.
-Dialogue: 0,0:18:16.14,0:18:17.18,Main,,0,0,0,,Yes ma'am.
-Dialogue: 0,0:19:17.57,0:19:20.29,Main,,0,0,0,,Mahito, save me...
-Dialogue: 0,0:19:33.76,0:19:34.88,Main,,0,0,0,,You're home.
-Dialogue: 0,0:19:35.22,0:19:36.22,Main,,0,0,0,,I'm home.
-Dialogue: 0,0:20:12.05,0:20:14.76,Main,,0,0,0,,Navy boys are all flustered.
-Dialogue: 0,0:20:14.92,0:20:17.88,Main,,0,0,0,,They boasted Saipan\Nwould hold for a year.
-Dialogue: 0,0:20:19.26,0:20:21.93,Main,,0,0,0,,I pity those who died...
-Dialogue: 0,0:20:22.10,0:20:24.43,Main,,0,0,0,,The factory's booming though.
-Dialogue: 0,0:20:24.56,0:20:27.52,Main,,0,0,0,,We'll take the Datsun to school.
-Dialogue: 0,0:20:28.98,0:20:33.52,Main,,0,0,0,,A transfer student arriving by car\Nwill shock everyone.
-Dialogue: 0,0:20:35.94,0:20:39.95,Main,,0,0,0,,Don't worry.\NWe've spoken to the teachers.
-Dialogue: 0,0:20:40.28,0:20:41.41,Main,,0,0,0,,Off you go.
-Dialogue: 0,0:20:48.21,0:20:52.21,Main,,0,0,0,,<i>"Agricultural volunteers"</i>
-Dialogue: 0,0:20:59.13,0:21:02.14,Main,,0,0,0,,<i>"Mahito Maki"</i>
+Dialogue: 0,0:12:47.45,0:12:48.62,Main,,0,0,0,,Mahito...
+Dialogue: 0,0:12:51.56,0:12:52.70,Main,,0,0,0,,Mẹ ơi!
+Dialogue: 0,0:15:03.11,0:15:05.24,Main,,0,0,0,,Mahito-san!
+Dialogue: 0,0:15:07.53,0:15:10.08,Main,,0,0,0,,Mahito-san!
+Dialogue: 0,0:15:11.91,0:15:14.33,Main,,0,0,0,,Mahito-san!
+Dialogue: 0,0:16:24.69,0:16:27.13,Main,,0,0,0,,Cậu chủ!
+Dialogue: 0,0:16:27.28,0:16:29.36,Main,,0,0,0,,Về thôi nào!
+Dialogue: 0,0:16:29.49,0:16:32.12,Main,,0,0,0,,Tiểu thư đang lo lắm đấy!
+Dialogue: 0,0:16:33.16,0:16:35.87,Main,,0,0,0,,Cậu chủ!
+Dialogue: 0,0:16:40.33,0:16:42.63,Main,,0,0,0,,Tưởng chỗ này lấp rồi mà?
+Dialogue: 0,0:16:44.84,0:16:46.46,Main,,0,0,0,,Khéo bị bắt đi mất.
+Dialogue: 0,0:16:47.17,0:16:48.59,Main,,0,0,0,,Cậu chủ!
+Dialogue: 0,0:16:48.80,0:16:50.72,Main,,0,0,0,,Ơn giời cậu đây rồi!
+Dialogue: 0,0:16:50.89,0:16:52.01,Main,,0,0,0,,Chỗ này là gì?
+Dialogue: 0,0:16:53.26,0:16:54.64,Main,,0,0,0,,Bên trong còn có cầu thang.
+Dialogue: 0,0:16:54.96,0:16:56.24,Main,,0,0,0,,Nhà kiểu gì thế?
+Dialogue: 0,0:16:57.87,0:16:59.06,Main,,0,0,0,,À thì...
+Dialogue: 0,0:16:59.19,0:17:01.56,Main,,0,0,0,,Cứ nên về đã.
+Dialogue: 0,0:17:04.02,0:17:05.53,Main,,0,0,0,,Lông đâu mất rồi.
+Dialogue: 0,0:17:09.99,0:17:14.51,Main,,0,0,0,,Vốn dì tính để con \Nquen với cuộc sống ở đây trước đã.
+Dialogue: 0,0:17:15.74,0:17:20.50,Main,,0,0,0,,Tòa tháp đó là do \N{\i1}ông họ bên ngoại{\i0} của con xây.
+Dialogue: 0,0:17:22.25,0:17:24.96,Main,,0,0,0,,Ông thông minh lắm,
+Dialogue: 0,0:17:25.71,0:17:28.88,Main,,0,0,0,,nhưng vì đọc nhiều sách quá \Nmà khá kỳ quái.
+Dialogue: 0,0:17:30.59,0:17:33.72,Main,,0,0,0,,Vào một ngày,\N trước khi dì được sinh ra rất lâu,
+Dialogue: 0,0:17:34.68,0:17:36.69,Main,,0,0,0,,ông để lại cuốn sách đang đọc dở,
+Dialogue: 0,0:17:36.69,0:17:39.22,Main,,0,0,0,,và bỏ đi mất tăm.
+Dialogue: 0,0:17:40.23,0:17:44.36,Main,,0,0,0,,Dù đã tìm kiếm khắp nơi,\N cũng không tìm thấy dấu vết gì.
+Dialogue: 0,0:17:46.94,0:17:49.01,Main,,0,0,0,,Rồi về sau có trận lũ lớn,
+Dialogue: 0,0:17:49.01,0:17:50.92,Main,,0,0,0,,hành lang nối giữa nhà chính \Nvới tháp bị sập,
+Dialogue: 0,0:17:51.45,0:17:54.95,Main,,0,0,0,,mới phát hiện ra có đường hầm \Nnhư mê cung bên dưới tháp.
+Dialogue: 0,0:17:56.49,0:18:01.08,Main,,0,0,0,,Vì nguy hiểm, nên ông của dì \Nđã cho lấp lối vào.
+Dialogue: 0,0:18:02.04,0:18:05.04,Main,,0,0,0,,Mahito-san cũng đừng lại gần nhé.
+Dialogue: 0,0:18:05.67,0:18:06.29,Main,,0,0,0,,Vâng!
+Dialogue: 0,0:18:06.93,0:18:08.05,Main,,0,0,0,,Xin phép ạ!
+Dialogue: 0,0:18:10.92,0:18:12.05,Main,,0,0,0,,Chúc dì ngủ ngon.
+Dialogue: 0,0:18:12.34,0:18:13.45,Main,,0,0,0,,Con ngủ ngon.
+Dialogue: 0,0:18:13.79,0:18:16.03,Main,,0,0,0,,Sáng ra lạnh đấy, nhớ đắp chăn nha.
+Dialogue: 0,0:18:16.03,0:18:16.73,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:19:17.57,0:19:20.31,Main,,0,0,0,,Mahito! Cứu mẹ!
+Dialogue: 0,0:19:33.76,0:19:34.96,Main,,0,0,0,,Mừng anh về.
+Dialogue: 0,0:19:35.22,0:19:36.22,Main,,0,0,0,,Về rồi đây.
+Dialogue: 0,0:20:12.05,0:20:14.76,Main,,0,0,0,,Hải quân giờ loạn hết cả lên rồi.
+Dialogue: 0,0:20:14.92,0:20:17.88,Main,,0,0,0,,Thế mà huênh hoang tuyên bố\N cầm cự Saipan được một năm cơ.
+Dialogue: 0,0:20:19.26,0:20:21.93,Main,,0,0,0,,Bao nhiêu là người hi sinh,\N tội nghiệp quá.
+Dialogue: 0,0:20:22.10,0:20:24.43,Main,,0,0,0,,Nhờ thế mà xưởng nhiều việc.
+Dialogue: 0,0:20:24.56,0:20:27.52,Main,,0,0,0,,Mahito, để bố lái xe đưa con đi học.
+Dialogue: 0,0:20:28.98,0:20:31.41,Main,,0,0,0,,Học sinh chuyển trường đi học bằng xe,
+Dialogue: 0,0:20:31.65,0:20:33.33,Main,,0,0,0,,ai cũng sốc cho xem.
+Dialogue: 0,0:20:35.94,0:20:36.97,Main,,0,0,0,,Không sao đâu.
+Dialogue: 0,0:20:37.34,0:20:39.76,Main,,0,0,0,,Đã thưa chuyện trước với thầy cô rồi.
+Dialogue: 0,0:20:40.28,0:20:41.41,Main,,0,0,0,,Con đi cẩn thận nha.
+Dialogue: 0,0:20:48.21,0:20:52.21,Main,,0,0,0,,{\i1}"Agricultural volunteers"
+Dialogue: 0,0:20:59.13,0:21:02.14,Main,,0,0,0,,{\i1}"Mahito Maki"
 Dialogue: 0,0:22:22.01,0:22:25.76,Main,,0,0,0,,Mahito, tell me the truth.\NWho did this to you?
 Dialogue: 0,0:22:27.06,0:22:28.64,Main,,0,0,0,,I just took a tumble.
 Dialogue: 0,0:22:29.27,0:22:35.15,Main,,0,0,0,,Rest assured. I'll avenge you,\Nso tell me the truth.
@@ -231,7 +254,7 @@ Dialogue: 0,0:34:36.45,0:34:40.29,Main,,0,0,0,,I'm sorry. I shouldn't have\Nlet 
 Dialogue: 0,0:34:42.33,0:34:44.25,Main,,0,0,0,,Forgive me, big sister...
 Dialogue: 0,0:34:44.79,0:34:47.80,Main,,0,0,0,,M'lady, don't make\Nyourself worse.
 Dialogue: 0,0:34:48.25,0:34:50.26,Main,,0,0,0,,Please get well soon.
-Dialogue: 0,0:34:53.13,0:34:54.68,Main,,0,0,0,,<i>"Hikari Cigarettes"</i>
+Dialogue: 0,0:34:53.13,0:34:54.68,Main,,0,0,0,,{\i1}"Hikari Cigarettes"
 Dialogue: 0,0:35:14.99,0:35:16.99,Main,,0,0,0,,Your presence is requested!
 Dialogue: 0,0:36:07.33,0:36:10.71,Main,,0,0,0,,A cigarette!\NYou wily old flimflam man!
 Dialogue: 0,0:36:53.09,0:36:56.84,Main,,0,0,0,,Sonny, sonny!\NCome, come.
@@ -246,10 +269,10 @@ Dialogue: 0,0:37:22.91,0:37:25.58,Main,,0,0,0,,Hikari.\NHow 'bout one box?
 Dialogue: 0,0:37:26.29,0:37:27.41,Main,,0,0,0,,Gramps has them.
 Dialogue: 0,0:37:28.58,0:37:31.33,Main,,0,0,0,,And there were only two inside.
 Dialogue: 0,0:37:31.75,0:37:35.34,Main,,0,0,0,,You gave 'em to that wrinkly prune?!\NHey! Sonny!
-Dialogue: 0,0:39:57.73,0:39:59.73,Main,,0,0,0,,<i>"To grown-up Mahito"</i>
-Dialogue: 0,0:39:59.86,0:40:01.90,Main,,0,0,0,,<i>"From Mother\N1937, autumn"</i>
+Dialogue: 0,0:39:57.73,0:39:59.73,Main,,0,0,0,,{\i1}"To grown-up Mahito"
+Dialogue: 0,0:39:59.86,0:40:01.90,Main,,0,0,0,,{\i1}"From Mother\N1937, autumn"
 Dialogue: 0,0:40:08.74,0:40:10.33,Main,,0,0,0,,Mother's handwriting...
-Dialogue: 0,0:40:15.62,0:40:18.25,Main,,0,0,0,,<i>"How Do You Live?"</i>
+Dialogue: 0,0:40:15.62,0:40:18.25,Main,,0,0,0,,{\i1}"How Do You Live?"
 Dialogue: 0,0:40:19.96,0:40:22.59,Main,,0,0,0,,Mother left this for me...
 Dialogue: 0,0:41:01.21,0:41:04.71,Main,,0,0,0,,- M'lady!\N- M'lady!
 Dialogue: 0,0:41:05.01,0:41:07.80,Main,,0,0,0,,- M'lady!\N- M'lady!
@@ -437,8 +460,8 @@ Dialogue: 0,1:10:54.79,1:10:58.51,Main,,0,0,0,,My kind were brought to this hell
 Dialogue: 0,1:10:58.63,1:11:02.30,Main,,0,0,0,,so we would eat the warawara.
 Dialogue: 0,1:11:03.22,1:11:06.97,Main,,0,0,0,,This sea has few fish we can eat.
 Dialogue: 0,1:11:08.56,1:11:11.43,Main,,0,0,0,,My kind were all starving.
-Dialogue: 0,1:11:12.56,1:11:15.65,Main,,0,0,0,,<i>We flew as high as we could.</i>
-Dialogue: 0,1:11:15.86,1:11:19.61,Main,,0,0,0,,<i>As high and far\Nas our wings could carry us.</i>
+Dialogue: 0,1:11:12.56,1:11:15.65,Main,,0,0,0,,{\i1}We flew as high as we could.
+Dialogue: 0,1:11:15.86,1:11:19.61,Main,,0,0,0,,{\i1}As high and far\Nas our wings could carry us.
 Dialogue: 0,1:11:20.11,1:11:24.20,Main,,0,0,0,,But... it always ended the same way.
 Dialogue: 0,1:11:24.45,1:11:27.03,Main,,0,0,0,,We could only reach this island.
 Dialogue: 0,1:11:31.16,1:11:35.17,Main,,0,0,0,,Now our newborns\Nare forgetting how to fly.
@@ -516,16 +539,16 @@ Dialogue: 0,1:17:21.05,1:17:23.68,Main,,0,0,0,,That tower stands there now.
 Dialogue: 0,1:17:38.03,1:17:42.83,Main,,0,0,0,,From what I heard,\NNatsuko's clever granduncle had it built.
 Dialogue: 0,1:17:43.03,1:17:46.58,Main,,0,0,0,,No siree,\Nit came down from the sky!
 Dialogue: 0,1:17:46.70,1:17:50.00,Main,,0,0,0,,Everybody was\Ntoo scared to go near it.
-Dialogue: 0,1:17:50.71,1:17:55.76,Main,,0,0,0,,<i>After 30-odd years, the forest\Ngrew back, and the thing got buried.</i>
-Dialogue: 0,1:17:56.63,1:18:00.39,Main,,0,0,0,,<i>Then, the granduncle discovered it.</i>
+Dialogue: 0,1:17:50.71,1:17:55.76,Main,,0,0,0,,{\i1}After 30-odd years, the forest\Ngrew back, and the thing got buried.
+Dialogue: 0,1:17:56.63,1:18:00.39,Main,,0,0,0,,{\i1}Then, the granduncle discovered it.
 Dialogue: 0,1:18:00.89,1:18:03.64,Main,,0,0,0,,He became obsessed with it...
 Dialogue: 0,1:18:03.76,1:18:08.60,Main,,0,0,0,,Because it was so rare,\Nhe built the tower around it.
 Dialogue: 0,1:18:20.99,1:18:24.24,Main,,0,0,0,,So many people died or got hurt.
 Dialogue: 0,1:18:24.37,1:18:28.16,Main,,0,0,0,,Plus, the granduncle\Nvanished into the tower...
 Dialogue: 0,1:18:28.29,1:18:29.71,Main,,0,0,0,,He sure did.
 Dialogue: 0,1:18:30.46,1:18:36.05,Main,,0,0,0,,Mahito's mother Hisako\Nalso went missing once.
-Dialogue: 0,1:18:37.59,1:18:40.68,Main,,0,0,0,,<i>We searched the whole village.</i>
-Dialogue: 0,1:18:41.13,1:18:45.30,Main,,0,0,0,,<i>Then after a year,\Nshe came back, fit as a fiddle.</i>
+Dialogue: 0,1:18:37.59,1:18:40.68,Main,,0,0,0,,{\i1}We searched the whole village.
+Dialogue: 0,1:18:41.13,1:18:45.30,Main,,0,0,0,,{\i1}Then after a year,\Nshe came back, fit as a fiddle.
 Dialogue: 0,1:18:45.76,1:18:48.60,Main,,0,0,0,,Looking the same as she was before.
 Dialogue: 0,1:18:48.77,1:18:53.06,Main,,0,0,0,,No memory of it,\Nand grinning, but...
 Dialogue: 0,1:18:54.27,1:18:55.69,Main,,0,0,0,,Bizarre, ain't it?
@@ -775,7 +798,7 @@ Dialogue: 0,1:53:03.07,1:53:07.32,Main,,0,0,0,,I'll make friends. Like Himi,\NKi
 Dialogue: 0,1:53:08.32,1:53:09.28,Main,,0,0,0,,Me?
 Dialogue: 0,1:53:09.70,1:53:15.29,Main,,0,0,0,,Make friends. Return to your world.\NBut first, stack the stones.
 Dialogue: 0,1:53:15.96,1:53:17.42,Main,,0,0,0,,There is no time!
-Dialogue: 0,1:53:18.04,1:53:20.42,Main,,0,0,0,,<i>I cannot keep my tower standing.</i>
+Dialogue: 0,1:53:18.04,1:53:20.42,Main,,0,0,0,,{\i1}I cannot keep my tower standing.
 Dialogue: 0,1:53:31.10,1:53:36.35,Main,,0,0,0,,Traitor! You would place the fate\Nof the empire upon mere stones?!
 Dialogue: 0,1:53:44.15,1:53:45.95,Main,,0,0,0,,B-Be still. Still.
 Dialogue: 0,1:53:47.07,1:53:48.16,Main,,0,0,0,,Damn you!
@@ -822,39 +845,39 @@ Dialogue: 0,1:58:22.14,1:58:23.18,Main,,0,0,0,,Kiriko!
 Dialogue: 0,1:58:24.72,1:58:25.68,Main,,0,0,0,,The king?!
 Dialogue: 0,1:58:36.07,1:58:38.32,Main,,0,0,0,,Natsuko! Mahito!
 Dialogue: 0,1:58:38.49,1:58:40.11,Main,,0,0,0,,- Shoichi!\N- Father!
-Dialogue: 0,1:58:47.54,1:58:49.37,Main,,0,0,0,,<i>Two years after the war,</i>
-Dialogue: 0,1:58:51.50,1:58:52.96,Main,,0,0,0,,<i>we returned to Tokyo.</i>
+Dialogue: 0,1:58:47.54,1:58:49.37,Main,,0,0,0,,{\i1}Two years after the war,
+Dialogue: 0,1:58:51.50,1:58:52.96,Main,,0,0,0,,{\i1}we returned to Tokyo.
 Dialogue: 0,1:58:55.75,1:58:57.67,Main,,0,0,0,,Hey! Mahito!
 Dialogue: 0,1:58:59.17,1:59:00.34,Main,,0,0,0,,We're going!
 Dialogue: 0,1:59:01.43,1:59:02.76,Main,,0,0,0,,Coming!
-Dialogue: 0,1:59:38.17,1:59:43.84,Main,,0,0,0,,<i>The clear sky on the day I was born</i>
-Dialogue: 0,1:59:45.47,1:59:51.44,Main,,0,0,0,,<i>was so high, distant, and endless</i>
-Dialogue: 0,1:59:53.52,1:59:59.32,Main,,0,0,0,,<i>The day I heard a voice\Npatting me on the back</i>
-Dialogue: 0,2:00:00.94,2:00:05.28,Main,,0,0,0,,<i>telling me to go ahead</i>
-Dialogue: 0,2:00:07.41,2:00:13.08,Main,,0,0,0,,<i>Faces I met in the seasons,</i>
-Dialogue: 0,2:00:14.71,2:00:20.71,Main,,0,0,0,,<i>at times hurting one another</i>
-Dialogue: 0,2:00:22.76,2:00:28.56,Main,,0,0,0,,<i>Shine by the light, the shadow extends</i>
-Dialogue: 0,2:00:29.89,2:00:34.52,Main,,0,0,0,,<i>as the sky grows further away</i>
-Dialogue: 0,2:00:39.32,2:00:45.32,Main,,0,0,0,,<i>I catch the wind and start running,\Novercoming the rubble</i>
-Dialogue: 0,2:00:45.45,2:00:51.45,Main,,0,0,0,,<i>At the end of this road,\Nsomeone is waiting for me</i>
-Dialogue: 0,2:00:51.62,2:00:58.63,Main,,0,0,0,,<i>Dream of light shining through,\Nat any day of the week</i>
-Dialogue: 0,2:01:00.88,2:01:06.93,Main,,0,0,0,,<i>Open the door this moment,\Nlike revealing hidden secrets</i>
-Dialogue: 0,2:01:07.05,2:01:13.43,Main,,0,0,0,,<i>Can't hold myself longing for more,\Nlike the spinning globe</i>
-Dialogue: 0,2:01:25.86,2:01:31.37,Main,,0,0,0,,<i>The person I loved</i>
-Dialogue: 0,2:01:33.16,2:01:39.17,Main,,0,0,0,,<i>has gone to somewhere no one knows</i>
-Dialogue: 0,2:01:41.29,2:01:46.97,Main,,0,0,0,,<i>With the usual kind\Nsmile as any other day,</i>
-Dialogue: 0,2:01:48.55,2:01:52.89,Main,,0,0,0,,<i>still somewhere far away</i>
-Dialogue: 0,2:01:57.69,2:02:03.86,Main,,0,0,0,,<i>I take in the rain and start singing,\Nnot minding if seen</i>
-Dialogue: 0,2:02:03.98,2:02:09.95,Main,,0,0,0,,<i>This road continues\Nbecause I wished it would continue</i>
-Dialogue: 0,2:02:10.07,2:02:17.08,Main,,0,0,0,,<i>I dream of meeting again,\Nfor ever and ever</i>
-Dialogue: 0,2:02:19.29,2:02:25.21,Main,,0,0,0,,<i>I grasped the fragment firmly,\Nso the secret remains</i>
-Dialogue: 0,2:02:25.38,2:02:31.80,Main,,0,0,0,,<i>I'll keep longing till the end,\Nlike the spinning globe</i>
-Dialogue: 0,2:02:38.02,2:02:44.78,Main,,0,0,0,,<i>It all starts from an innocent wish\Nmade long ago</i>
-Dialogue: 0,2:02:45.86,2:02:52.87,Main,,0,0,0,,<i>Carrying the loneliness in my heart,\NI turn the corner</i>
-Dialogue: 0,2:02:56.95,2:03:03.04,Main,,0,0,0,,<i>I catch the wind and start running,\Novercoming the rubble</i>
-Dialogue: 0,2:03:03.17,2:03:09.17,Main,,0,0,0,,<i>At the end of this road,\Nsomeone is waiting for me</i>
-Dialogue: 0,2:03:09.30,2:03:16.31,Main,,0,0,0,,<i>Dream of light shining through,\Nat any day of the week</i>
-Dialogue: 0,2:03:18.52,2:03:24.61,Main,,0,0,0,,<i>Open the door this moment,\Nlike revealing hidden secrets</i>
-Dialogue: 0,2:03:24.73,2:03:30.78,Main,,0,0,0,,<i>The joy of holding ones hand,\Nthe suffering of losing one</i>
-Dialogue: 0,2:03:30.90,2:03:37.20,Main,,0,0,0,,<i>Can't hold myself from picturing,\Nlike the spinning globe</i>
+Dialogue: 0,1:59:38.17,1:59:43.84,Main,,0,0,0,,{\i1}The clear sky on the day I was born
+Dialogue: 0,1:59:45.47,1:59:51.44,Main,,0,0,0,,{\i1}was so high, distant, and endless
+Dialogue: 0,1:59:53.52,1:59:59.32,Main,,0,0,0,,{\i1}The day I heard a voice\Npatting me on the back
+Dialogue: 0,2:00:00.94,2:00:05.28,Main,,0,0,0,,{\i1}telling me to go ahead
+Dialogue: 0,2:00:07.41,2:00:13.08,Main,,0,0,0,,{\i1}Faces I met in the seasons,
+Dialogue: 0,2:00:14.71,2:00:20.71,Main,,0,0,0,,{\i1}at times hurting one another
+Dialogue: 0,2:00:22.76,2:00:28.56,Main,,0,0,0,,{\i1}Shine by the light, the shadow extends
+Dialogue: 0,2:00:29.89,2:00:34.52,Main,,0,0,0,,{\i1}as the sky grows further away
+Dialogue: 0,2:00:39.32,2:00:45.32,Main,,0,0,0,,{\i1}I catch the wind and start running,\Novercoming the rubble
+Dialogue: 0,2:00:45.45,2:00:51.45,Main,,0,0,0,,{\i1}At the end of this road,\Nsomeone is waiting for me
+Dialogue: 0,2:00:51.62,2:00:58.63,Main,,0,0,0,,{\i1}Dream of light shining through,\Nat any day of the week
+Dialogue: 0,2:01:00.88,2:01:06.93,Main,,0,0,0,,{\i1}Open the door this moment,\Nlike revealing hidden secrets
+Dialogue: 0,2:01:07.05,2:01:13.43,Main,,0,0,0,,{\i1}Can't hold myself longing for more,\Nlike the spinning globe
+Dialogue: 0,2:01:25.86,2:01:31.37,Main,,0,0,0,,{\i1}The person I loved
+Dialogue: 0,2:01:33.16,2:01:39.17,Main,,0,0,0,,{\i1}has gone to somewhere no one knows
+Dialogue: 0,2:01:41.29,2:01:46.97,Main,,0,0,0,,{\i1}With the usual kind\Nsmile as any other day,
+Dialogue: 0,2:01:48.55,2:01:52.89,Main,,0,0,0,,{\i1}still somewhere far away
+Dialogue: 0,2:01:57.69,2:02:03.86,Main,,0,0,0,,{\i1}I take in the rain and start singing,\Nnot minding if seen
+Dialogue: 0,2:02:03.98,2:02:09.95,Main,,0,0,0,,{\i1}This road continues\Nbecause I wished it would continue
+Dialogue: 0,2:02:10.07,2:02:17.08,Main,,0,0,0,,{\i1}I dream of meeting again,\Nfor ever and ever
+Dialogue: 0,2:02:19.29,2:02:25.21,Main,,0,0,0,,{\i1}I grasped the fragment firmly,\Nso the secret remains
+Dialogue: 0,2:02:25.38,2:02:31.80,Main,,0,0,0,,{\i1}I'll keep longing till the end,\Nlike the spinning globe
+Dialogue: 0,2:02:38.02,2:02:44.78,Main,,0,0,0,,{\i1}It all starts from an innocent wish\Nmade long ago
+Dialogue: 0,2:02:45.86,2:02:52.87,Main,,0,0,0,,{\i1}Carrying the loneliness in my heart,\NI turn the corner
+Dialogue: 0,2:02:56.95,2:03:03.04,Main,,0,0,0,,{\i1}I catch the wind and start running,\Novercoming the rubble
+Dialogue: 0,2:03:03.17,2:03:09.17,Main,,0,0,0,,{\i1}At the end of this road,\Nsomeone is waiting for me
+Dialogue: 0,2:03:09.30,2:03:16.31,Main,,0,0,0,,{\i1}Dream of light shining through,\Nat any day of the week
+Dialogue: 0,2:03:18.52,2:03:24.61,Main,,0,0,0,,{\i1}Open the door this moment,\Nlike revealing hidden secrets
+Dialogue: 0,2:03:24.73,2:03:30.78,Main,,0,0,0,,{\i1}The joy of holding ones hand,\Nthe suffering of losing one
+Dialogue: 0,2:03:30.90,2:03:37.20,Main,,0,0,0,,{\i1}Can't hold myself from picturing,\Nlike the spinning globe
 Dialogue: 0,2:03:39.54,2:03:41.75,Main,,0,0,0,,English Dialogue by Don Brown\NSubtitles by AURA
